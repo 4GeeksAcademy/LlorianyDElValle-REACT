@@ -17,7 +17,7 @@ const Footer = () => {
           </a>
         </div>
         <p className="mb-1 small">
-          <FontAwesomeIcon icon={faPhone} /> +34 600 000 000
+          <FontAwesomeIcon icon={faPhone} /> +34 600 5555 5555
         </p>
         <p className="mb-3 small">
           <FontAwesomeIcon icon={faEnvelope} /> info@creta-holidays.com
